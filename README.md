@@ -8,3 +8,6 @@ Step2: Start NPM , "npm start".
 Step2:Type "ng serve" OR "ng serve --o" to execute the Application.
 FOR MORE COMMANDS FOLLOW THE LINK BELOW:-
 https://github.com/angular/angular-cli/wiki
+
+
+If you see the error Message "4200 already in USE", Please Navigate to http://localhost:4200/
